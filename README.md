@@ -77,8 +77,8 @@ I'm a full-time software developer building my version of the digital world one 
 
 ### Github Stats
 
-![Ajil's Github stats](https://github-readme-stats.vercel.app/api?username=AjilJagadeesh7&show_icons=true&theme=gruvbox)
-![Ajil's Github stats-part2](https://streak-stats.demolab.com/?user=AjilJagadeesh7&theme=gruvbox&border_radius=4.5)
+![Ajil's Github stats](https://github-readme-stats.vercel.app/api?username=AjilJagadeesh7&show_icons=true&theme=tokyonight)
+![Ajil's Github stats-part2](https://streak-stats.demolab.com/?user=AjilJagadeesh7&theme=radical&border_radius=4.5)
 
 <hr/>
 
