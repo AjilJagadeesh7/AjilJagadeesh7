@@ -16,19 +16,19 @@ I'm a full-time software developer building my version of the digital world one 
 
 <p>
     <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/typescript.png" width="50" height="50" alt="typescript">
+        <img src="https://img.icons8.com/color/48/null/typescript.png" width="40" height="40" alt="typescript">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="50" height="50" alt="javascript">
+        <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="40" height="40" alt="javascript">
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/python--v1.png"/ width="50" height="50" alt="python">
+        <img src="https://img.icons8.com/color/48/null/python--v1.png"/ width="40" height="40" alt="python">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width="50" height="50" alt="html5">
+        <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width="40" height="40" alt="html5">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/css3.png" width="50" height="50" alt="css3">
+        <img src="https://img.icons8.com/color/48/null/css3.png" width="40" height="40" alt="css3">
     </a>
     
 </p>
@@ -37,22 +37,34 @@ I'm a full-time software developer building my version of the digital world one 
 
 <p>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/react-native.png" width="50" height="50" alt="react">
+        <img src="https://img.icons8.com/color/48/null/react-native.png" width="40" height="40" alt="react">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/ionic.png" width="50" height="50" alt="ionic">
+        <img src="https://img.icons8.com/color/48/null/ionic.png" width="40" height="40" alt="ionic">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/angularjs.png"/ width="50" height="50" alt="angular">
+        <img src="https://img.icons8.com/color/48/null/angularjs.png"/ width="40" height="40" alt="angular">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/nodejs.png" width="50" height="50" alt="node">
+        <img src="https://img.icons8.com/color/48/null/nodejs.png" width="40" height="40" alt="node">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/git.png" width="50" height="50" alt="git">
+        <img src="https://img.icons8.com/color/48/null/git.png" width="40" height="40" alt="git">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.icons8.com/color/48/null/tailwind_css.png" width="50" height="50" alt="tailwind css">
+        <img src="https://img.icons8.com/color/48/null/tailwind_css.png" width="40" height="40" alt="tailwind css">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/null/bash.png" width="40" height="40" alt="bash"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+    <img ssrc="https://img.icons8.com/color/48/null/flask.png" width="40" height="40" alt="Flask"/>
+    </a href="#" target="_blank" rel="noopener noreferrer">
+    <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/null/linux--v1.png" width="40" height="40" alt="Linux"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/null/amazon-web-services.png" width="40" height="40" alt="AWS"/>
     </a>
 </p>
 
