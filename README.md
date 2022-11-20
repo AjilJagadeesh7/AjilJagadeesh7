@@ -12,6 +12,8 @@ I'm a full-time software developer building my version of the digital world one 
     </a>
 </p>
 
+<br/>
+
 ### Languages
 
 <p>
@@ -33,6 +35,7 @@ I'm a full-time software developer building my version of the digital world one 
     
 </p>
 
+<br/>
 ### Tools
 
 <p>
@@ -70,7 +73,7 @@ I'm a full-time software developer building my version of the digital world one 
         <img src="https://img.icons8.com/color/48/null/firebase.png" width="40" height="40" alt="firebase"/>
     </a>
 </p>
-
+<br/>
 ### Currently listening to
 
 <img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
