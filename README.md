@@ -33,6 +33,29 @@ I'm a full-time software developer building my version of the digital world one 
     
 </p>
 
+### Tools
+
+<p>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/react-native.png" width="50" height="50" alt="react">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/ionic.png" width="50" height="50" alt="ionic">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/angularjs.png"/ width="50" height="50" alt="angular">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/nodejs.png" width="50" height="50" alt="node">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/git.png" width="50" height="50" alt="git">
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/tailwind_css.png" width="50" height="50" alt="tailwind css">
+    </a>
+</p>
+
 ### Currently listening to
 
 <img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
