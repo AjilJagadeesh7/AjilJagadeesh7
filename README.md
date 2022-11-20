@@ -8,6 +8,6 @@ I'm a full-time software developer building my version of the digital world one 
 <img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="100" height="100">
 <p>
     <a href='#'>
-    <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white">
+    <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?label=Instagramlogo=paintbrush&logoColor=white">
     </a>
 </p>
