@@ -15,20 +15,20 @@ I'm a full-time software developer building my version of the digital world one 
 ### Languages
 
 <p>
-    <a>
-        <img src="https://img.icons8.com/color/48/null/typescript.png" width="30" height="30" alt="language-logo">
+    <a href="https://www.typescriptlang.org/docs/">
+        <img src="https://img.icons8.com/color/48/null/typescript.png" width="30" height="30" alt="typescript">
     </a>
-    <a>
-        <img src="" width="30" height="30" alt="language-logo">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.icons8.com/color/48/null/javascript--v1.png" width="30" height="30" alt="javascript">
     </a>
-    <a>
-        <img src="" width="30" height="30" alt="language-logo">
+    <a href="https://www.python.org/">
+        <img src="https://img.icons8.com/color/48/null/python--v1.png"/ width="30" height="30" alt="python">
     </a>
-    <a>
-        <img src="" width="30" height="30" alt="language-logo">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+        <img src="https://img.icons8.com/color/48/null/html-5--v1.png" width="30" height="30" alt="html5">
     </a>
-    <a>
-        <img src="" width="30" height="30" alt="language-logo">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.icons8.com/color/48/null/css3.png" width="30" height="30" alt="css3">
     </a>
     
 </p>
