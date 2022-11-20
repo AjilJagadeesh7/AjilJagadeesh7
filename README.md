@@ -1,4 +1,4 @@
-## AJIL JAGADEESH <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60" height="60">
+# AJIL JAGADEESH <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60" height="60">
 
 **_`Software Developer (WebApps/Mobile/Games)`_**
 
