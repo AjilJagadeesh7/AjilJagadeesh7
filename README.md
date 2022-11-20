@@ -55,16 +55,19 @@ I'm a full-time software developer building my version of the digital world one 
         <img src="https://img.icons8.com/color/48/null/tailwind_css.png" width="40" height="40" alt="tailwind css">
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/null/bash.png" width="40" height="40" alt="bash"/>
+        <img src="https://img.icons8.com/color/48/null/bash.png" width="40" height="40" alt="bash"/>
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-    <img ssrc="https://img.icons8.com/color/48/null/flask.png" width="40" height="40" alt="Flask"/>
+        <img src="https://img.icons8.com/color/48/null/flask.png" width="40" height="40" alt="Flask"/>
     </a href="#" target="_blank" rel="noopener noreferrer">
     <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/null/linux--v1.png" width="40" height="40" alt="Linux"/>
+        <img src="https://img.icons8.com/color/48/null/linux--v1.png" width="40" height="40" alt="Linux"/>
     </a>
     <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/null/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+        <img src="https://img.icons8.com/color/48/null/amazon-web-services.png" width="40" height="40" alt="AWS"/>
+    </a>
+    <a href="#" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/null/firebase.png" width="40" height="40" alt="firebase"/>
     </a>
 </p>
 
