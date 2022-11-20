@@ -10,4 +10,8 @@ I'm a full-time software developer building my version of the digital world one 
     <a href='#'>
     <img alt="instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/github/stars/AjilJagadeesh7?color=55960&style=for-the-badge&labelColor=488207&logo=star">
     </a>
-</p><img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
+</p>
+<p>
+Currently listening to
+<img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
+</p>
