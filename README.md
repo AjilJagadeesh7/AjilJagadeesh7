@@ -12,6 +12,27 @@ I'm a full-time software developer building my version of the digital world one 
     </a>
 </p>
 
+### Languages
+
+<p>
+    <a>
+        <img src="https://img.icons8.com/color/48/null/typescript.png" width="30" height="30" alt="language-logo">
+    </a>
+    <a>
+        <img src="" width="30" height="30" alt="language-logo">
+    </a>
+    <a>
+        <img src="" width="30" height="30" alt="language-logo">
+    </a>
+    <a>
+        <img src="" width="30" height="30" alt="language-logo">
+    </a>
+    <a>
+        <img src="" width="30" height="30" alt="language-logo">
+    </a>
+    
+</p>
+
 ### Currently listening to
 
 <img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
