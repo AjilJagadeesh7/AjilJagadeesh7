@@ -31,6 +31,3 @@ I'm a full-time software developer building my version of the digital world one 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### Currently listening to
-
-<img src="https://now-play.vercel.app/api/generate?uid=d14cb69c-10c3-4807-9619-f90dec72e218&theme=dark" />
